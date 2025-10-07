@@ -1,211 +1,265 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hey there! I'm Bratik Mukherjee
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  </h1>
-  <p>
-    A passionate B.Tech IT student and Full-Stack Developer on a mission to build impactful digital solutions.
-  </p>
-  <div id="social-badges">
-    <a href="https://www.linkedin.com/in/bratik-mukherjee/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/Bimbok" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="YOUR_TWITTER_OR_X_URL" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
-    </a>
-    <a href="mailto:bimbokmkj@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://bimbok-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-  </div>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bratik%20Mukherjee&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=150&lines=Full+Stack+Developer+%F0%9F%9A%80;B.Tech+IT+Student+%F0%9F%8E%93;Building+Impactful+Solutions+%F0%9F%92%A1;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" /></a>
+<p align="center">
+  <em>Transforming Ideas into Elegant Digital Experiences</em>
+</p>
+
+<!-- Animated Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/bratik-mukherjee/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Bimbok" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:bimbokmkj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://bimbok-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bimbok&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Bimbok?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Bimbok?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 & 𝒲𝒽𝒶𝓉 𝐼'𝓂 𝒟𝑜𝒾𝓃𝑔
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFWlCg/giphy.gif" />
+<div align="center">
 
-I'm Bratik Mukherjee, an enthusiastic **B.Tech student** majoring in Information Technology at Techno Main Saltlake (TMSL). My journey in tech is fueled by a profound love for transforming creative ideas into robust and impactful digital solutions.
+## 🎯 About Me
 
-My core philosophy revolves around making technology **accessible and intuitive for everyone**, especially those who aren't inherently tech-savvy. I believe that elegant design and thoughtful engineering can bridge the gap between complex systems and everyday users.
+</div>
 
-- 🔭 **Currently Building:** A scalable full-stack application leveraging the **MERN stack (MongoDB, Express, React, Node.js)** with real-time features.
-- 🌱 **Currently Learning:** Deep diving into **Cloud Native technologies like Kubernetes and advanced Docker orchestration**, and exploring **Serverless Architectures**.
-- 👯 **Looking to Collaborate:** On open-source projects focused on **web accessibility** or **educational technology**.
-- 💡 **Open for Opportunities:** Seeking **internships or full-time roles** where I can apply my full-stack expertise and passion for problem-solving.
-- 💬 **Ask Me About:** JavaScript (React, Node.js), Python (Django, Flask), database design, or anything related to building user-friendly applications!
-- ⚡ **Fun Fact:** When I'm not coding, you'll find me exploring new photography techniques or experimenting with smart home automation.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
----
+```typescript
+const Bratik = {
+    location: "Kolkata, India 🇮🇳",
+    education: "B.Tech IT @ TMSL",
+    currentYear: "3rd Year",
+    
+    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+        devOps: ["Docker", "Kubernetes", "Nginx", "Vercel"],
+        tools: ["Git", "Postman", "Jira", "Figma"]
+    },
+    
+    currentFocus: "Building scalable full-stack applications",
+    learning: ["Cloud Native", "Kubernetes", "Serverless Architecture"],
+    
+    philosophy: "Making technology accessible for everyone 🌟"
+};
+```
 
-### 🚀 𝑀𝓎 𝒯𝑜𝓅 𝒫𝓇𝑜𝒿𝑒𝒸𝓉𝓈
+<br clear="right"/>
 
-_Showcase your best 3-4 projects here. A compelling project section is vital! Consider adding a small GIF or a high-quality screenshot for each._
+### 🚀 What I'm Up To
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://debugly.vercel.app/"><b>Debugly</b></a></td>
-      <td>
-        Debugly is a lightweight code-review companion built with Next.js App Router, Monaco Editor, and Google Gemini. Paste code, pick a language and theme, and click “Review Code” to get fast, actionable feedback. It’s designed to be simple, private-by-default (your API key stays on the server), and easy to deploy on Vercel.
-        <br>
-        <img src="https://github.com/user-attachments/assets/09355aae-825f-477a-8903-d2feef123bcb" alt="Project Debugly Screenshot" style="border-radius: 8px; margin-top: 10px;"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="now-chat-4e5c.onrender.com/"><b>Now-Chat - Secure Chat App</b></a></td>
-      <td>
-        A real-time, end-to-end encrypted chat application. Implements user authentication, and group chat functionalities.
-        <br>
-        <img src="https://github.com/user-attachments/assets/c0410923-3d72-4b63-9e34-7d6df9e1ad03" alt="Secure Chat App Screenshot" style="border-radius: 8px; margin-top: 10px;"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-      </td>
-    </tr>
-    </tbody>
-</table>
+- 🔭 Building a **MERN stack application** with real-time features
+- 🌱 Deep diving into **Cloud Native technologies** & **Kubernetes**
+- 👯 Looking to collaborate on **Open Source** & **EdTech projects**
+- 💼 Open for **internships** and **full-time opportunities**
+- 💬 Ask me about **React, Node.js, Python**, or **Full-Stack Development**
+- ⚡ Fun fact: Photography enthusiast 📸 & Smart home automation tinkerer 🏠
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💻 𝑀𝓎 𝒯𝑒𝒸𝒽 𝒜𝓇𝓈𝑒𝓃𝒶𝓁
+<div align="center">
 
-_Organizing badges by proficiency gives a clearer picture of your core strengths._
+## 🏆 Featured Projects
 
-<details>
-  <summary><b>🔥 Core / Daily Use</b></summary>
-  <p>
-    &emsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </p>
-</details>
+</div>
 
-<details>
-  <summary><b>💡 Proficient / Strong Knowledge</b></summary>
-  <p>
-    &emsp;
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  </p>
-</details>
+<div align="center">
 
-<details>
-  <summary><b>📚 Exploring / Learning</b></summary>
-  <p>
-    &emsp;
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  </p>
-</details>
+### 🔥 [Debugly](https://debugly.vercel.app/) - AI-Powered Code Review Tool
 
-<details>
-  <summary><b>🎨 Design & Other Tools</b></summary>
-  <p>
-    &emsp;
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-    <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom"/>
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  </p>
-</details>
+<a href="https://debugly.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/09355aae-825f-477a-8903-d2feef123bcb" alt="Debugly" width="600px" style="border-radius: 10px;"/>
+</a>
+
+**A lightweight code-review companion** built with Next.js App Router, Monaco Editor, and Google Gemini. Get fast, actionable feedback on your code with a beautiful, privacy-first interface.
+
+**Tech Stack:** Next.js · React · TypeScript · Monaco Editor · Google Gemini · Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://debugly.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Bimbok)
 
 ---
 
-### 📈 𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 & 𝒜𝒸𝓉𝒾𝓋𝒾𝓉𝓎
+### 💬 [Now-Chat](https://now-chat-4e5c.onrender.com/) - Secure Real-Time Chat
 
-_These stats dynamically update and give a quick overview of your contributions!_
+<a href="https://now-chat-4e5c.onrender.com/">
+  <img src="https://github.com/user-attachments/assets/c0410923-3d72-4b63-9e34-7d6df9e1ad03" alt="Now-Chat" width="600px" style="border-radius: 10px;"/>
+</a>
+
+**End-to-end encrypted chat application** with real-time messaging, user authentication, and group chat functionality. Built for privacy and performance.
+
+**Tech Stack:** Django · Python · PostgreSQL · Socket.io · Redis · WebSockets
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=render)](https://now-chat-4e5c.onrender.com/)
+[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Bimbok)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+</div>
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimbok&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27&hide_title=true&card_width=400" alt="Bimbok's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bimbok&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Bimbok's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimbok&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400" alt="Bimbok's Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="Bimbok's GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,bash" />
 </p>
 
----
-
-### ✍️ 𝐿𝒶𝓉𝑒𝓈𝓉 𝐵𝓁𝑜𝑔 𝒫𝑜𝓈𝓉𝓈
-
-- ➡️ My latest article: [How you can config your neovim with Sunset LazyVim NVIM ](https://github.com/Bimbok/nvim)
-- ➡️ Check out: [Understanding how a shell (eg. bash zsh, sh) works](https://github.com/Bimbok/myshell)
-<br>
-
----
-
-### 💬 𝑅𝒶𝓃𝒹𝑜𝓂 𝒟𝑒𝓋 𝒬𝓊𝑜𝓉𝑒 & 𝒱𝒾𝓈𝒾𝓉𝑜𝓇 𝒞𝑜𝓊𝓃𝓉𝑒𝓇
+### 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Bimbok&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,redux,vite" />
 </p>
 
----
-
-### 🎉 𝐿𝑒𝓉'𝓈 𝒞𝑜𝓃𝓃𝑒𝒸𝓉!
+### ⚙️ Backend Development
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bratik-mukherjee/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,nginx,vercel,aws,gcp" />
+</p>
+
+### 🎨 Design & Other Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,vim" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimbok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimbok&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimbok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📝 Latest Blog Posts & Articles
+
+</div>
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Read-How%20to%20Config%20Neovim%20with%20LazyVim-00D9FF?style=for-the-badge&logo=vim)](https://github.com/Bimbok/nvim)
+
+[![Blog](https://img.shields.io/badge/Read-Understanding%20Shell%20Internals-00D9FF?style=for-the-badge&logo=gnu-bash)](https://github.com/Bimbok/myshell)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bratik-mukherjee/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bimbokmkj@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Button"/>
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Bimbok?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Bimbok?label=Follow%20me&style=for-the-badge&color=236ad7" alt="GitHub Follow Button"/>
+  <a href="https://bimbok-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bimbok">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+### 💼 Open for Opportunities
+
+I'm actively seeking **internships** and **full-time roles** in Full-Stack Development, Cloud Engineering, or DevOps. Let's build something amazing together!
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
+</p>
+
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+### Show some ❤️ by starring some repositories!
+
+</div>
