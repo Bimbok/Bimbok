@@ -132,103 +132,91 @@ const Profile = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## ⚙️ Core Architecture (Tech Stack)
 
 </div>
 
-### 💻 Languages
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🗄️ Database</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase&theme=dark&perline=2" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🐧 Linux & CLI</h3>
+      <img src="https://skillicons.dev/icons?i=arch,ubuntu,bash,linux&theme=dark&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,vercel&theme=dark&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 Tools</h3>
+      <img src="https://skillicons.dev/icons?i=neovim,tmux,figma,postman&theme=dark&perline=2" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,bash" />
-</p>
+<br/>
 
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,redux,vite" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
-</p>
-
-### 🚀 DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,nginx,vercel,aws,gcp,arch,ubuntu" />
-</p>
-
-### 🎨 Design & Other Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,vim,neovim,tmux" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 Telemetry (Analytics)
 
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimbok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimbok&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimbok&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimbok&theme=synthwave&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimbok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimbok&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&theme=synthwave&hide_border=true&area=true" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
-## 📝 Latest Blog Posts & Articles
+## 📡 Signal Broadcasts (Articles)
+
+[![Blog](https://img.shields.io/badge/Read-How%20to%20Config%20Neovim%20with%20LazyVim-FF00FF?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Bimbok/nvim)
+[![Blog](https://img.shields.io/badge/Read-Understanding%20Shell%20Internals-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://github.com/Bimbok/myshell)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" />
 
 </div>
 
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Read-How%20to%20Config%20Neovim%20with%20LazyVim-00D9FF?style=for-the-badge&logo=vim)](https://github.com/Bimbok/nvim)
-
-[![Blog](https://img.shields.io/badge/Read-Understanding%20Shell%20Internals-00D9FF?style=for-the-badge&logo=gnu-bash)](https://github.com/Bimbok/myshell)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
-## 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Establish Connection
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bratik-mukherjee/">
@@ -240,32 +228,20 @@ const Profile = {
   <a href="https://bimbok-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/Bimbok">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ### 💼 Open for Opportunities
+Actively seeking **internships** and **full-time roles** in Full-Stack Development, Cloud Engineering, or DevOps.
 
-I'm actively seeking **internships** and **full-time roles** in Full-Stack Development, Cloud Engineering, or DevOps. Let's build something amazing together!
+<br/>
 
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
+### 🐍 Contribution Matrix
 
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  
-### Show some ❤️ by starring some repositories!
+<!-- Neon Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,10,2&height=100&section=footer" width="100%"/>
 
 </div>
