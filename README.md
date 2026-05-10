@@ -52,7 +52,7 @@ const Bratik = {
     education: "B.Tech IT @ TMSL",
     currentYear: "3rd Year",
     
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    code: ["JavaScript", "TypeScript", "Python", "C++", "Bash"],
     
     technologies: {
         frontEnd: {
@@ -64,14 +64,18 @@ const Bratik = {
             python: ["Django", "Flask"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        devOps: ["Docker", "Kubernetes", "Nginx", "Vercel"],
-        tools: ["Git", "Postman", "Jira", "Figma"]
+        devOps: ["Docker", "Kubernetes", "CI/CD", "Nginx", "Vercel"],
+        linux: {
+            distros: ["Arch Linux (Daily Driver)", "Ubuntu"],
+            expertise: ["CLI Automation", "System Hardening", "Shell Scripting"]
+        },
+        tools: ["Git", "Neovim", "Tmux", "Postman", "Figma"]
     },
     
-    currentFocus: "Building scalable full-stack applications",
-    learning: ["Cloud Native", "Kubernetes", "Serverless Architecture"],
+    currentFocus: "Mastering Cloud Native Ecosystem & Linux Internals",
+    learning: ["Rust", "Advanced Kubernetes", "System Design"],
     
-    philosophy: "Making technology accessible for everyone 🌟"
+    philosophy: "Automation is the ultimate form of laziness (the good kind) 🐧"
 };
 ```
 
@@ -80,11 +84,12 @@ const Bratik = {
 ### 🚀 What I'm Up To
 
 - 🔭 Building a **MERN stack application** with real-time features
-- 🌱 Deep diving into **Cloud Native technologies** & **Kubernetes**
-- 👯 Looking to collaborate on **Open Source** & **EdTech projects**
+- 🌱 Daily driving **Arch Linux** and optimizing my **Linux CLI workflow**
+- 🛠️ Automating everything with **Bash scripts** and **DevOps pipelines**
+- 👯 Looking to collaborate on **Open Source** & **Infrastructure projects**
 - 💼 Open for **internships** and **full-time opportunities**
-- 💬 Ask me about **React, Node.js, Python**, or **Full-Stack Development**
-- ⚡ Fun fact: Photography enthusiast 📸 & Smart home automation tinkerer 🏠
+- 💬 Ask me about **Linux, Docker, Kubernetes**, or **Full-Stack Development**
+- ⚡ Fun fact: I use Arch btw (but I started with Ubuntu) 🐧
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -161,13 +166,13 @@ const Bratik = {
 ### 🚀 DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,nginx,vercel,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,nginx,vercel,aws,gcp,arch,ubuntu" />
 </p>
 
 ### 🎨 Design & Other Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,vim,neovim,tmux" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
