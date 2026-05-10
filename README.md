@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,14,20&height=280&section=header&text=Bratik%20Mukherjee&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=00D9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,14,20&height=280&section=header&text=Bratik%20Mukherjee&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=00D9FF" width="100%"/>
 
 <!-- Anime-styled Typing Intro -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=%E2%9C%A8+Mastering+the+Chaos+of+Code+%E2%9C%A8;%F0%9F%9A%80+Full+Stack+%2B+DevOps+Engineer;%F0%9F%90%A7+Arch+Linux+Daily+Driver+(I+use+Arch+btw);%E2%9D%84%EF%B8%8F+Building+High-Fidelity+Digital+Art" alt="Typing SVG" /></a>
