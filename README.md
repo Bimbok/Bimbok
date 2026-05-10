@@ -104,7 +104,7 @@ const Bratik = {
 ### 🌊 [AlgoScope](https://algo-scope-virid.vercel.app/) — Interactive Algorithm Visualizer
 
 <a href="https://algo-scope-virid.vercel.app">
-  <img src="https://github.com/user-attachments/assets/09355aae-825f-477a-8903-d2feef123bcb" alt="AlgoScope" width="600px" style="border-radius: 10px;"/>
+  <img src="Sample/2026-05-10-102609_hyprshot.png" alt="AlgoScope" width="600px" style="border-radius: 10px;"/>
 </a>
 
 **A modern, interactive algorithm visualizer that demystifies complex logic through real-time, high-fidelity animations.**
