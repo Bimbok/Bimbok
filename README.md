@@ -101,33 +101,70 @@ const Bratik = {
 
 <div align="center">
 
-### 🔥 [Debugly](https://debugly.vercel.app/) - AI-Powered Code Review Tool
+### 🌊 [AlgoScope](https://algo-scope-virid.vercel.app/) — Interactive Algorithm Visualizer
 
-<a href="https://debugly.vercel.app/">
-  <img src="https://github.com/user-attachments/assets/09355aae-825f-477a-8903-d2feef123bcb" alt="Debugly" width="600px" style="border-radius: 10px;"/>
+<a href="https://algo-scope-virid.vercel.app">
+  <img src="https://github.com/user-attachments/assets/09355aae-825f-477a-8903-d2feef123bcb" alt="AlgoScope" width="600px" style="border-radius: 10px;"/>
 </a>
 
-**A lightweight code-review companion** built with Next.js App Router, Monaco Editor, and Google Gemini. Get fast, actionable feedback on your code with a beautiful, privacy-first interface.
+**A modern, interactive algorithm visualizer that demystifies complex logic through real-time, high-fidelity animations.**
 
-**Tech Stack:** Next.js · React · TypeScript · Monaco Editor · Google Gemini · Tailwind CSS
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind--CSS-4.x-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Docker Hub](https://img.shields.io/badge/Docker-Hub-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/r/bimbok/algoscope-app)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://debugly.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Bimbok)
+<details>
+<summary><b>🔍 Explore AlgoScope Deep Dive</b></summary>
+
+#### 💡 Project Purpose
+**AlgoScope** bridges the gap between static pseudocode and dynamic execution. By transforming abstract logic into fluid animations, it helps users build a mental model of how algorithms actually work.
+
+#### ✨ Key Features
+- **Real-time Visualization:** Smooth, step-by-step animations using Framer Motion and Anime.js.
+- **Algorithm Coverage:** Comprehensive support for Sorting, Searching, and Graph Algorithms.
+- **Code Insights:** Multi-language implementation (C++, Java, Python, JS) alongside the visualization.
+
+#### 🏗️ Architecture & Data Flow
+```mermaid
+flowchart TD
+    user[User] -- Parameters --> logic[Algorithm Engine]
+    logic -- State Updates --> state[State Manager]
+    state -- Data --> vis[Visualizer Renderer]
+    vis -- Animation --> user
+```
+
+</details>
 
 ---
 
-### 💬 [Now-Chat](https://now-chat-4e5c.onrender.com/) - Secure Real-Time Chat
+### 🌸 [Sizuka Language](https://github.com/Bimbok/Sizuka) — Interpreted JVM Language
 
-<a href="https://now-chat-4e5c.onrender.com/">
-  <img src="https://github.com/user-attachments/assets/c0410923-3d72-4b63-9e34-7d6df9e1ad03" alt="Now-Chat" width="600px" style="border-radius: 10px;"/>
-</a>
+**A clean, interpreted programming language built from scratch in Java.**
 
-**End-to-end encrypted chat application** with real-time messaging, user authentication, and group chat functionality. Built for privacy and performance.
+Sizuka runs on the JVM and features a custom recursive descent parser and a tree-walk interpreter, designed to explore core compiler design concepts.
 
-**Tech Stack:** Django · Python · PostgreSQL · Socket.io · Redis · WebSockets
+[![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=render)](https://now-chat-4e5c.onrender.com/)
-[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Bimbok)
+<details>
+<summary><b>📝 View Syntax & Features</b></summary>
+
+#### ⚡ Features
+- **Variables & Arithmetic:** Dynamic typing with `say` keyword and full operator precedence.
+- **Packs (Arrays):** Built-in support for dynamic, zero-indexed collections.
+- **Control Flow:** `if`/`else` branching, `from` loops, and `while` loops.
+- **Interactive REPL:** Instant code execution shell.
+
+#### 📝 Syntax Preview
+```text
+say x = 10
+from 1 to 5 as i {
+    out "Sizuka iteration: " + (x * i)
+}
+```
+
+</details>
 
 </div>
 
