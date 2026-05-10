@@ -144,29 +144,29 @@ const Profile = {
   <tr>
     <td align="center" width="33%">
       <h3>🌐 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=2" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,redux,vite&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%">
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark&perline=2" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,graphql&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%">
-      <h3>🗄️ Database</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase&theme=dark&perline=2" />
+      <h3>🗄️ Database & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,aws,gcp&theme=dark&perline=4" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h3>🐧 Linux & CLI</h3>
-      <img src="https://skillicons.dev/icons?i=arch,ubuntu,bash,linux&theme=dark&perline=2" />
+      <h3>🐧 Linux & OS</h3>
+      <img src="https://skillicons.dev/icons?i=arch,ubuntu,linux,bash&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%">
-      <h3>🚀 DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,vercel&theme=dark&perline=2" />
+      <h3>🚀 DevOps & CI/CD</h3>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,nginx,vercel&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%">
-      <h3>🎨 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=neovim,tmux,figma,postman&theme=dark&perline=2" />
+      <h3>🛠️ Engineering Tools</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,java,neovim,tmux,vim,vscode,figma,postman&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
