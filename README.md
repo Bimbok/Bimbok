@@ -1,42 +1,42 @@
 <div align="center">
 
 <!-- Modern Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,14,20&height=280&section=header&text=Bratik%20Mukherjee&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=00D9FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,45:3C3836,100:D79921&height=280&section=header&text=Bratik%20Mukherjee&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=FBF1C7" width="100%"/>
 
 <!-- Anime-styled Typing Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=%E2%9C%A8+Mastering+the+Chaos+of+Code+%E2%9C%A8;%F0%9F%9A%80+Full+Stack+%2B+DevOps+Engineer;%F0%9F%90%A7+Arch+Linux+Daily+Driver+(I+use+Arch+btw);%E2%9D%84%EF%B8%8F+Building+High-Fidelity+Digital+Art" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FABD2F&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=%E2%9C%A8+Mastering+the+Chaos+of+Code+%E2%9C%A8;%F0%9F%9A%80+Full+Stack+%2B+DevOps+Engineer;%F0%9F%90%A7+Arch+Linux+Daily+Driver+(I+use+Arch+btw);%E2%9D%84%EF%B8%8F+Building+High-Fidelity+Digital+Art" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-00D9FF?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-B8BB26?style=for-the-badge&logo=rocket&logoColor=282828" />
 </p>
 
 <!-- Glitch Pulse Strip -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1800&pause=500&color=FF2BD6&center=true&vCenter=true&repeat=true&width=900&lines=SYSTEM+BOOTED+%E2%9A%A1+NEON+MODE+ONLINE;CODE+%2B+AUTOMATION+%2B+LINUX+%2B+ART;SHIPPING+PRODUCTS+WITH+SPEED+AND+PRECISION" alt="Neon system pulse" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1800&pause=500&color=FE8019&center=true&vCenter=true&repeat=true&width=900&lines=GRUVBOX+BOOTED+%E2%9A%A1+WARM+MODE+ONLINE;CODE+%2B+AUTOMATION+%2B+LINUX+%2B+ART;SHIPPING+PRODUCTS+WITH+SPEED+AND+PRECISION" alt="Gruvbox system pulse" />
 </p>
 
-<!-- Neon Social Badges -->
+<!-- Gruvbox Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bratik-mukherjee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=FBF1C7" alt="LinkedIn"/>
   </a>
   <a href="mailto:bimbokmkj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-CC241D?style=for-the-badge&logo=gmail&logoColor=FBF1C7" alt="Gmail"/>
   </a>
   <a href="https://bimbok-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-D79921?style=for-the-badge&logo=google-chrome&logoColor=282828" alt="Portfolio"/>
   </a>
 </p>
 
-<!-- Holographic Command Bar -->
+<!-- Gruvbox Command Bar -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bimbok&style=for-the-badge&color=00d9ff&label=Profile+Scans" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Mode-Ship%20Fast-ff2bd6?style=for-the-badge&logo=githubactions&logoColor=white" alt="Ship fast" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://komarev.com/ghpvc/?username=Bimbok&style=for-the-badge&color=fabd2f&label=Profile+Scans" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Mode-Ship%20Fast-FE8019?style=for-the-badge&logo=githubactions&logoColor=282828" alt="Ship fast" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-458588?style=for-the-badge&logo=archlinux&logoColor=FBF1C7" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-B8BB26?style=for-the-badge&logo=neovim&logoColor=282828" alt="Neovim" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656971-9a20858c-06f7-4b1a-b376-8102f6ef6945.gif" width="100%" alt="Animated neon divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:665C54,100:D79921&height=4&section=header" width="100%" alt="Gruvbox animated divider">
 
 </div>
 
@@ -88,22 +88,22 @@ const Profile = {
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Focus-Algorithm%20Visualization-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Focus" />
+      <img src="https://img.shields.io/badge/Focus-Algorithm%20Visualization-FABD2F?style=for-the-badge&logo=visualstudiocode&logoColor=282828" alt="Focus" />
       <br/>
       <sub>Turning abstract logic into motion.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Runtime-Linux%20Native-FF2BD6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Native" />
+      <img src="https://img.shields.io/badge/Runtime-Linux%20Native-FE8019?style=for-the-badge&logo=linux&logoColor=282828" alt="Linux Native" />
       <br/>
       <sub>Terminal-first workflow, tuned daily.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Build%20Style-Clean%20Systems-7C3AED?style=for-the-badge&logo=compilerexplorer&logoColor=white" alt="Build Style" />
+      <img src="https://img.shields.io/badge/Build%20Style-Clean%20Systems-B16286?style=for-the-badge&logo=compilerexplorer&logoColor=FBF1C7" alt="Build Style" />
       <br/>
       <sub>Readable architecture before clever tricks.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Velocity-Always%20Iterating-00FFC6?style=for-the-badge&logo=rocket&logoColor=black" alt="Velocity" />
+      <img src="https://img.shields.io/badge/Velocity-Always%20Iterating-B8BB26?style=for-the-badge&logo=rocket&logoColor=282828" alt="Velocity" />
       <br/>
       <sub>Small commits, visible progress.</sub>
     </td>
@@ -112,7 +112,7 @@ const Profile = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=00FFC6&center=true&vCenter=true&width=900&lines=%3E+boot+workspace;%3E+open+neovim;%3E+compose+systems;%3E+ship+beautiful+software" alt="Terminal workflow animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=B8BB26&center=true&vCenter=true&width=900&lines=%3E+boot+workspace;%3E+open+neovim;%3E+compose+systems;%3E+ship+beautiful+software" alt="Terminal workflow animation" />
 
 </div>
 
@@ -130,12 +130,12 @@ const Profile = {
       <div align="center">
         <h3>🌊 AlgoScope</h3>
         <a href="https://algo-scope-virid.vercel.app">
-          <img src="Sample/2026-05-10-102609_hyprshot.png" alt="AlgoScope" width="100%" style="border-radius: 12px; border: 2px solid #00D9FF;"/>
+          <img src="Sample/2026-05-10-102609_hyprshot.png" alt="AlgoScope" width="100%" style="border-radius: 12px; border: 2px solid #FABD2F;"/>
         </a>
         <p align="center"><i>Visualizing logic with high-fidelity animations.</i></p>
         <p align="center">
-          <img src="https://img.shields.io/badge/React%2019-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-          <img src="https://img.shields.io/badge/Tailwind%20v4-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/React%2019-282828?style=flat&logo=react&logoColor=FABD2F" />
+          <img src="https://img.shields.io/badge/Tailwind%20v4-3C3836?style=flat&logo=tailwind-css&logoColor=8EC07C" />
         </p>
       </div>
     </td>
@@ -143,11 +143,11 @@ const Profile = {
       <div align="center">
         <h3>🌸 Sizuka Language</h3>
         <br/>
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #ff79c6;"/>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #B16286;"/>
         <p align="center"><i>A custom-built JVM language from scratch.</i></p>
         <p align="center">
-          <img src="https://img.shields.io/badge/Java%2017+-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Interpreter-%2352b0e7.svg?style=flat" />
+          <img src="https://img.shields.io/badge/Java%2017+-D65D0E?style=flat&logo=openjdk&logoColor=282828" />
+          <img src="https://img.shields.io/badge/Interpreter-458588?style=flat&logoColor=FBF1C7" />
         </p>
       </div>
     </td>
@@ -189,17 +189,17 @@ const Profile = {
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/01-Ideate-00D9FF?style=for-the-badge&logo=figma&logoColor=white" alt="Ideate" />
+      <img src="https://img.shields.io/badge/01-Ideate-FABD2F?style=for-the-badge&logo=figma&logoColor=282828" alt="Ideate" />
       <br/>
       <sub>Sketch the experience, define the behavior, remove friction.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/02-Engineer-FF2BD6?style=for-the-badge&logo=typescript&logoColor=white" alt="Engineer" />
+      <img src="https://img.shields.io/badge/02-Engineer-FE8019?style=for-the-badge&logo=typescript&logoColor=282828" alt="Engineer" />
       <br/>
       <sub>Build the core, wire the state, polish the interactions.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/03-Automate-00FFC6?style=for-the-badge&logo=githubactions&logoColor=black" alt="Automate" />
+      <img src="https://img.shields.io/badge/03-Automate-B8BB26?style=for-the-badge&logo=githubactions&logoColor=282828" alt="Automate" />
       <br/>
       <sub>Package, deploy, observe, refine.</sub>
     </td>
@@ -208,7 +208,7 @@ const Profile = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:D79921,100:B8BB26&height=3&section=header" width="100%" alt="Gruvbox divider">
 
 <div align="center">
 
@@ -254,63 +254,63 @@ const Profile = {
 ### 🧬 Stack DNA
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Systems%20UI-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-Performance-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Terminal%20Craft-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Systems%20UI-458588?style=for-the-badge&logo=typescript&logoColor=FBF1C7" />
+  <img src="https://img.shields.io/badge/Python-Automation-D79921?style=for-the-badge&logo=python&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Rust-Performance-8F3F71?style=for-the-badge&logo=rust&logoColor=FBF1C7" />
+  <img src="https://img.shields.io/badge/Bash-Terminal%20Craft-B8BB26?style=for-the-badge&logo=gnubash&logoColor=282828" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Frontend+that+feels+alive;Backends+that+stay+boring+and+reliable;DevOps+that+makes+shipping+repeatable;Linux+workflows+that+respect+speed" alt="Stack DNA animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=FABD2F&center=true&vCenter=true&width=900&lines=Frontend+that+feels+alive;Backends+that+stay+boring+and+reliable;DevOps+that+makes+shipping+repeatable;Linux+workflows+that+respect+speed" alt="Stack DNA animation" />
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:D79921,100:B8BB26&height=3&section=header" width="100%" alt="Gruvbox divider">
 
 <div align="center">
 
 ## 📊 Telemetry (Analytics)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:665C54,100:D79921&height=4&section=header" width="100%" alt="Gruvbox telemetry divider">
 
 <h3>📈 Metrics Overview</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimbok&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimbok&theme=gruvbox" width="100%" />
 </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimbok&theme=react" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimbok&theme=react" alt="Most Commit Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimbok&theme=react" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimbok&theme=react&utcOffset=8" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimbok&theme=gruvbox" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimbok&theme=gruvbox" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimbok&theme=gruvbox" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimbok&theme=gruvbox&utcOffset=8" alt="Productive Time" />
   </p>
 
   <p align="center">
-     <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Bimbok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+     <img height="180em" src="https://github-readmeapp.vercel.app/api?username=Bimbok&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub stats" />
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Bimbok&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=Bimbok&theme=gruvbox&hide_border=true" alt="GitHub streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
   </p>
 
   <a href="https://github.com/adityapaul26">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true" width="100%" alt="Activity Matrix" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&bg_color=282828&color=EBDBB2&line=B8BB26&point=FABD2F&area_color=D79921&title_color=FABD2F&hide_border=true" width="100%" alt="Activity Matrix" />
   </a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D79921,50:665C54,100:282828&height=4&section=footer" width="100%" alt="Gruvbox telemetry divider">
 </div>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:D79921,100:B8BB26&height=3&section=header" width="100%" alt="Gruvbox divider">
 
 <div align="center">
 
@@ -334,29 +334,29 @@ nvim + tmux + zsh</code></pre>
 
   </td>
   <td align="center" width="50%">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=400&color=00D9FF&center=true&vCenter=true&multiline=true&width=460&height=220&lines=compile+ideas;animate+logic;automate+repetition;deploy+with+style" alt="Live terminal animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=400&color=FABD2F&center=true&vCenter=true&multiline=true&width=460&height=220&lines=compile+ideas;animate+logic;automate+repetition;deploy+with+style" alt="Live terminal animation" />
   </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:D79921,100:B8BB26&height=3&section=header" width="100%" alt="Gruvbox divider">
 
 <div align="center">
 
 ## 📡 Signal Broadcasts (Articles)
 
-[![Blog](https://img.shields.io/badge/Read-How%20to%20Config%20Neovim%20with%20LazyVim-FF00FF?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Bimbok/nvim)
-[![Blog](https://img.shields.io/badge/Read-Understanding%20Shell%20Internals-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://github.com/Bimbok/myshell)
+[![Blog](https://img.shields.io/badge/Read-How%20to%20Config%20Neovim%20with%20LazyVim-B8BB26?style=for-the-badge&logo=vim&logoColor=282828)](https://github.com/Bimbok/nvim)
+[![Blog](https://img.shields.io/badge/Read-Understanding%20Shell%20Internals-FABD2F?style=for-the-badge&logo=gnu-bash&logoColor=282828)](https://github.com/Bimbok/myshell)
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:D79921,100:B8BB26&height=3&section=header" width="100%" alt="Gruvbox divider">
 
 <div align="center">
 
@@ -364,13 +364,13 @@ nvim + tmux + zsh</code></pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bratik-mukherjee/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-458588?style=for-the-badge&logo=linkedin&logoColor=FBF1C7" />
   </a>
   <a href="mailto:bimbokmkj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-CC241D?style=for-the-badge&logo=gmail&logoColor=FBF1C7" />
   </a>
   <a href="https://bimbok-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-D79921?style=for-the-badge&logo=google-chrome&logoColor=282828" />
   </a>
 </p>
 
@@ -388,15 +388,15 @@ Actively seeking **internships** and **full-time roles** in Full-Stack Developme
 
 ### ✨ Final Signal
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2500&pause=900&color=FF2BD6&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+the+terminal.;Build+beautiful.+Automate+hard.+Stay+curious.;See+you+in+the+commit+history." alt="Final signal animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2500&pause=900&color=FE8019&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+the+terminal.;Build+beautiful.+Automate+hard.+Stay+curious.;See+you+in+the+commit+history." alt="Final signal animation" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,10,14,20&height=2&section=footer" width="100%" alt="Neon rule" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:D79921,100:B8BB26&height=2&section=footer" width="100%" alt="Gruvbox rule" />
 
 <br/>
 
-<!-- Neon Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,10,2&height=100&section=footer" width="100%"/>
+<!-- Gruvbox Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D79921,55:3C3836,100:282828&height=100&section=footer" width="100%"/>
 
 </div>
