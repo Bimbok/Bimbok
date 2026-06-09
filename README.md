@@ -179,20 +179,36 @@ const Profile = {
 
 ## 📊 Telemetry (Analytics)
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimbok&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimbok&theme=synthwave&hide_border=true" />
-</p>
+<h3>📈 Metrics Overview</h3>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimbok&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&theme=synthwave&hide_border=true&area=true" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimbok&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bimbok&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimbok&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&theme=tokyonight&hide_border=true&area=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
 
 <br/>
