@@ -299,7 +299,7 @@ const Profile = {
     <img src="assets/gruvbox-trophies-fallback.svg" width="100%" alt="Recognition Board" />
   </p>
 
-  <a href="https://github.com/adityapaul26">
+  <a href="https://github.com/Bimbok">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimbok&bg_color=282828&color=EBDBB2&line=B8BB26&point=FABD2F&area_color=D79921&title_color=FABD2F&hide_border=true" width="100%" alt="Activity Matrix" />
   </a>
 
