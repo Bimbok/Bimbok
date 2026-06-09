@@ -1,0 +1,28 @@
+<svg width="960" height="180" viewBox="0 0 960 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="180" rx="18" fill="#282828"/>
+  <rect x="1.5" y="1.5" width="957" height="177" rx="16.5" stroke="#504945" stroke-width="3"/>
+  <text x="480" y="42" text-anchor="middle" font-family="'Fira Code', monospace" font-size="28" font-weight="700" fill="#FABD2F">Bimbok's Recognition Board</text>
+  <text x="480" y="68" text-anchor="middle" font-family="'Fira Code', monospace" font-size="14" font-weight="500" fill="#A89984">Trophy widget unavailable, using a local fallback panel.</text>
+
+  <rect x="40" y="94" width="200" height="54" rx="12" fill="#3C3836"/>
+  <rect x="270" y="94" width="200" height="54" rx="12" fill="#3C3836"/>
+  <rect x="500" y="94" width="200" height="54" rx="12" fill="#3C3836"/>
+  <rect x="730" y="94" width="190" height="54" rx="12" fill="#3C3836"/>
+
+  <circle cx="72" cy="121" r="12" fill="#B8BB26"/>
+  <circle cx="302" cy="121" r="12" fill="#458588"/>
+  <circle cx="532" cy="121" r="12" fill="#D79921"/>
+  <circle cx="762" cy="121" r="12" fill="#B16286"/>
+
+  <text x="96" y="117" font-family="'Fira Code', monospace" font-size="15" font-weight="700" fill="#EBDBB2">Builder</text>
+  <text x="96" y="136" font-family="'Fira Code', monospace" font-size="12" fill="#A89984">Full-stack systems</text>
+
+  <text x="326" y="117" font-family="'Fira Code', monospace" font-size="15" font-weight="700" fill="#EBDBB2">Automation</text>
+  <text x="326" y="136" font-family="'Fira Code', monospace" font-size="12" fill="#A89984">CLI, DevOps, workflows</text>
+
+  <text x="556" y="117" font-family="'Fira Code', monospace" font-size="15" font-weight="700" fill="#EBDBB2">Linux Native</text>
+  <text x="556" y="136" font-family="'Fira Code', monospace" font-size="12" fill="#A89984">Arch, Zsh, Neovim</text>
+
+  <text x="786" y="117" font-family="'Fira Code', monospace" font-size="15" font-weight="700" fill="#EBDBB2">Shipping</text>
+  <text x="786" y="136" font-family="'Fira Code', monospace" font-size="12" fill="#A89984">Build, deploy, iterate</text>
+</svg>

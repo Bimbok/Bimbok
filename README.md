@@ -296,7 +296,7 @@ const Profile = {
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bimbok&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+    <img src="assets/gruvbox-trophies-fallback.svg" width="100%" alt="Recognition Board" />
   </p>
 
   <a href="https://github.com/adityapaul26">
