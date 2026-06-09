@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-00D9FF?style=for-the-badge&logo=rocket" />
 </p>
 
+<!-- Glitch Pulse Strip -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1800&pause=500&color=FF2BD6&center=true&vCenter=true&repeat=true&width=900&lines=SYSTEM+BOOTED+%E2%9A%A1+NEON+MODE+ONLINE;CODE+%2B+AUTOMATION+%2B+LINUX+%2B+ART;SHIPPING+PRODUCTS+WITH+SPEED+AND+PRECISION" alt="Neon system pulse" />
+</p>
+
 <!-- Neon Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bratik-mukherjee/" target="_blank">
@@ -22,6 +27,16 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+<!-- Holographic Command Bar -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bimbok&style=for-the-badge&color=00d9ff&label=Profile+Scans" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Mode-Ship%20Fast-ff2bd6?style=for-the-badge&logo=githubactions&logoColor=white" alt="Ship fast" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9a20858c-06f7-4b1a-b376-8102f6ef6945.gif" width="100%" alt="Animated neon divider">
 
 </div>
 
@@ -63,6 +78,41 @@ const Profile = {
 - 🌱 **Learning:** Deep-diving into **Linux Internals** and **eBPF**.
 - 🛠️ **Config:** Optimizing my **dotfiles** for peak productivity.
 - ⚡ **Trivia:** "I use Arch btw" isn't just a meme, it's a lifestyle.
+
+</div>
+
+<div align="center">
+
+### 🛰️ Mission Control
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Focus-Algorithm%20Visualization-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Focus" />
+      <br/>
+      <sub>Turning abstract logic into motion.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Runtime-Linux%20Native-FF2BD6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Native" />
+      <br/>
+      <sub>Terminal-first workflow, tuned daily.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Build%20Style-Clean%20Systems-7C3AED?style=for-the-badge&logo=compilerexplorer&logoColor=white" alt="Build Style" />
+      <br/>
+      <sub>Readable architecture before clever tricks.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Velocity-Always%20Iterating-00FFC6?style=for-the-badge&logo=rocket&logoColor=black" alt="Velocity" />
+      <br/>
+      <sub>Small commits, visible progress.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=00FFC6&center=true&vCenter=true&width=900&lines=%3E+boot+workspace;%3E+open+neovim;%3E+compose+systems;%3E+ship+beautiful+software" alt="Terminal workflow animation" />
 
 </div>
 
@@ -132,6 +182,36 @@ const Profile = {
 
 </div>
 
+<div align="center">
+
+### 🔥 Featured Build Loop
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/01-Ideate-00D9FF?style=for-the-badge&logo=figma&logoColor=white" alt="Ideate" />
+      <br/>
+      <sub>Sketch the experience, define the behavior, remove friction.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/02-Engineer-FF2BD6?style=for-the-badge&logo=typescript&logoColor=white" alt="Engineer" />
+      <br/>
+      <sub>Build the core, wire the state, polish the interactions.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/03-Automate-00FFC6?style=for-the-badge&logo=githubactions&logoColor=black" alt="Automate" />
+      <br/>
+      <sub>Package, deploy, observe, refine.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution flow animation" />
+
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
@@ -172,6 +252,23 @@ const Profile = {
 </table>
 
 <br/>
+
+<div align="center">
+
+### 🧬 Stack DNA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Systems%20UI-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Performance-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Terminal%20Craft-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Frontend+that+feels+alive;Backends+that+stay+boring+and+reliable;DevOps+that+makes+shipping+repeatable;Linux+workflows+that+respect+speed" alt="Stack DNA animation" />
+</p>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -221,6 +318,37 @@ const Profile = {
 
 <div align="center">
 
+## 🧿 Live Terminal Aesthetic
+
+<table align="center">
+  <tr>
+    <td align="left" width="50%">
+
+<pre><code>$ whoami
+bratik_mukherjee
+
+$ uptime --pretty
+building full-stack systems, DevOps pipelines, and Linux workflows
+
+$ current_task
+AlgoScope :: animated algorithm intelligence
+
+$ editor
+nvim + tmux + zsh</code></pre>
+
+  </td>
+  <td align="center" width="50%">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=400&color=00D9FF&center=true&vCenter=true&multiline=true&width=460&height=220&lines=compile+ideas;animate+logic;automate+repetition;deploy+with+style" alt="Live terminal animation" />
+  </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<div align="center">
+
 ## 📡 Signal Broadcasts (Articles)
 
 [![Blog](https://img.shields.io/badge/Read-How%20to%20Config%20Neovim%20with%20LazyVim-FF00FF?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Bimbok/nvim)
@@ -258,6 +386,17 @@ Actively seeking **internships** and **full-time roles** in Full-Stack Developme
 ### 🐍 Contribution Matrix
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br/>
+<br/>
+
+### ✨ Final Signal
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2500&pause=900&color=FF2BD6&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+the+terminal.;Build+beautiful.+Automate+hard.+Stay+curious.;See+you+in+the+commit+history." alt="Final signal animation" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,10,14,20&height=2&section=footer" width="100%" alt="Neon rule" />
 
 <br/>
 
