@@ -48,7 +48,7 @@
 
 </div>
 
-<img align="right" alt="Anime Code" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXU1eXp6eHazeXp6eHazeXp6eHazeXp6eHazeXp6eHazeXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3Yp49y1H/giphy.gif"/>
+<img align="right" alt="Anime Code" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```typescript
 /* The Architect's Core */
@@ -143,7 +143,7 @@ const Profile = {
       <div align="center">
         <h3>🌸 Sizuka Language</h3>
         <br/>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eXU1eXp6eHazeXp6eHazeXp6eHazeXp6eHazeXp6eHazeXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #ff79c6;"/>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #ff79c6;"/>
         <p align="center"><i>A custom-built JVM language from scratch.</i></p>
         <p align="center">
           <img src="https://img.shields.io/badge/Java%2017+-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
