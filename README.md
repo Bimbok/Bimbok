@@ -143,7 +143,7 @@ const Profile = {
       <div align="center">
         <h3>🌸 Sizuka Language</h3>
         <br/>
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #B16286;"/>
+        <img src="assets/Shizuka_Minamoto.gif" width="100%" style="border-radius: 12px; border: 2px solid #B16286;"/>
         <p align="center"><i>A custom-built JVM language from scratch.</i></p>
         <p align="center">
           <img src="https://img.shields.io/badge/Java%2017+-D65D0E?style=flat&logo=openjdk&logoColor=282828" />
