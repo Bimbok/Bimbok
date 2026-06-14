@@ -224,7 +224,7 @@ const Profile = {
     </td>
     <td align="center" width="33%">
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,graphql&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,go,cpp,graphql&theme=dark&perline=4" />
     </td>
     <td align="center" width="33%">
       <h3>📱 Mobile Dev</h3>
@@ -238,12 +238,21 @@ const Profile = {
     </td>
     <td align="center" width="33%">
       <h3>🚀 DevOps & Linux</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,nginx,vercel,arch,linux,bash&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,nginx,vercel,arch,ubuntu,linux,bash,zsh&theme=dark&perline=4" />
+        <br>
+  <div style="margin-top: 8px;">
+<img src="https://cdn.simpleicons.org/zsh/white" width="48" height="48" alt="zsh" style="margin: 0 4px;" />
+  </div>
     </td>
-    <td align="center" width="33%">
-      <h3>🧠 Productivity & Dev</h3>
-      <img src="https://skillicons.dev/icons?i=notion,obsidian,discord,neovim,tmux,npm,md,postman&theme=dark&perline=4" />
-    </td>
+<td align="center" width="33%">
+  <h3>🧠 Productivity & Dev</h3>
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,discord,neovim,npm,md,postman&theme=dark&perline=4" />
+  <br>
+  <div style="margin-top: 8px;">
+    <img src="https://cdn.simpleicons.org/tmux/1BB91F/white" width="48" height="48" alt="tmux" style="margin: 0 4px;" />
+    <img src="https://cdn.simpleicons.org/zedindustries/0278D6/white" width="48" height="48" alt="zed" style="margin: 0 4px;" />
+  </div>
+</td>
   </tr>
 </table>
 
