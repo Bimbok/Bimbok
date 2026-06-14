@@ -48,7 +48,7 @@
 
 </div>
 
-<img align="right" alt="Anime Code" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Anime Code" width="380" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"/>
 
 ```typescript
 /* The Architect's Core */
@@ -296,7 +296,7 @@ const Profile = {
   </p>
 
   <p align="center">
-    <img src="assets/gruvbox-trophies-fallback.svg" width="100%" alt="Recognition Board" />
+    <img src="https://github-trophies.vercel.app/?username=Bimbok&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox" width="100%" alt="Recognition Board" />
   </p>
 
   <a href="https://github.com/Bimbok">
