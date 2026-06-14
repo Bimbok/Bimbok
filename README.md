@@ -130,7 +130,7 @@ const Profile = {
       <div align="center">
         <h3>🌊 AlgoScope</h3>
         <a href="https://algo-scope-virid.vercel.app">
-          <img src="Sample/2026-05-10-102609_hyprshot.png" alt="AlgoScope" width="100%" style="border-radius: 12px; border: 2px solid #FABD2F;"/>
+          <img src="assets/preview.png" alt="AlgoScope" width="100%" style="border-radius: 12px; border: 2px solid #FABD2F;"/>
         </a>
         <p align="center"><i>Visualizing logic with high-fidelity animations.</i></p>
         <p align="center">
