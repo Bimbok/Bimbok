@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Bratik Mukherjee</h1>
+<h1 align="center"><img src="assets/title.png" width="340" alt="Bratik Mukherjee" /></h1>
 
 <table align="center" width="780">
   <tr>
