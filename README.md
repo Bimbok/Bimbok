@@ -10,9 +10,7 @@
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,go,python,ts,react,nextjs,tailwind,nodejs,fastapi,docker,kubernetes,arch,linux,neovim,fish,git&perline=10&theme=dark" alt="Tech Stack" />
-</a>
+<img src="assets/techstack.svg" alt="Tech Stack" />
 
 <br/>
 
