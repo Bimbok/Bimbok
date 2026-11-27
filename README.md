@@ -2,12 +2,12 @@
 
 <h1 align="center">Bratik Mukherjee</h1>
 
-<table align="center" style="border: none; border-collapse: collapse;">
+<table align="center" width="780">
   <tr>
-    <td align="center" valign="middle" style="border: none;">
+    <td align="center" valign="middle" width="160">
       <img src="assets/anya.gif" width="130" alt="Anya Forger" />
     </td>
-    <td align="left" valign="middle" style="border: none; padding-left: 20px; max-width: 630px;">
+    <td align="left" valign="middle" width="620">
       <i>Build across the entire abstraction stack—from bare-metal bootloaders and terminal interfaces to scalable web ecosystems—obsessed with how software actually thinks and breathes beneath the surface. Driven by the quiet satisfaction of turning complex logic into fast, intentional, and resilient tools.</i>
     </td>
   </tr>
@@ -17,12 +17,12 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<table align="center" style="border: none; border-collapse: collapse;">
+<table align="center" width="780">
   <tr>
-    <td align="center" valign="middle" style="border: none;">
+    <td align="center" valign="middle" width="530">
       <img src="assets/techstack.svg" alt="Tech Stack" height="255" />
     </td>
-    <td align="center" valign="middle" style="border: none; padding-left: 20px;">
+    <td align="center" valign="middle" width="250">
       <img src="assets/dance.gif" width="225" alt="Spy x Family Dance" />
     </td>
   </tr>
