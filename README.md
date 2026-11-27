@@ -10,6 +10,8 @@
 
 <br/>
 
+<h3 align="center">🛠️ Tech Stack</h3>
+
 <img src="assets/techstack.svg" alt="Tech Stack" />
 
 <br/>
